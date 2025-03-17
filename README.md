@@ -1,6 +1,6 @@
 # Resumidor de Texto com IA 🤖📝
 
-Bem-vindo ao meu projeto de estudo em Inteligência Artificial e LLMs (Large Language Models)! Este é um resumidor de texto que utiliza técnicas avançadas de processamento de linguagem natural (NLP) para gerar resumos claros e concisos a partir de textos extensos. Além disso, ele extrai os tópicos principais do texto, tornando a leitura mais eficiente e informativa.
+Bem-vindo ao meu projeto de estudo em Inteligência Artificial e LLMs (Large Language Models)! Este é um resumidor de texto que utiliza técnicas de processamento de linguagem natural (NLP) para gerar resumos claros e concisos a partir de textos extensos. Além disso, ele extrai os tópicos principais do texto, tornando a leitura mais eficiente e informativa.
 
 Este projeto foi desenvolvido como parte do meu aprendizado em Ciência de Dados e IA, e faz parte do meu portfólio de estudos. Sou um estudante do 3º semestre de Ciência de Dados, apaixonado por IA e em busca de uma oportunidade de estágio para aplicar e expandir meus conhecimentos na prática.
 
