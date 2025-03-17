@@ -1,0 +1,9 @@
+langchain
+langchain-core
+pydantic
+tiktoken
+groq
+dotenv
+langchain_groq
+streamlit==1.43.2
+protobuf==4.25.3
